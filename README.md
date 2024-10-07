@@ -8,7 +8,7 @@ These instructions will help you set up the project on your local machine for de
 
 ### Prerequisites
 
-* Unreal Engine: Version 5.4 <br>
+* Unreal Engine: Version 5.4.2 <br>
 * GoodSky: *
 * GyotaejeonComplex: *
 
